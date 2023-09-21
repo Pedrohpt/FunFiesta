@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8268d34b.css",
+    "main.js": "/static/js/main.59dda759.js",
+    "static/media/carrossel_churrasco.jpg": "/static/media/carrossel_churrasco.d34fe556a66284607f18.jpg",
+    "static/media/cooking.gif": "/static/media/cooking.49c624662cf2411209c9.gif",
+    "static/media/carrossel_pizza.jpg": "/static/media/carrossel_pizza.3d90d2df31e135ad35be.jpg",
+    "static/media/carrossel_festinhas2.png": "/static/media/carrossel_festinhas2.c42af00984878a6b5133.png",
+    "static/media/imagem-churrasco-tres.png": "/static/media/imagem-churrasco-tres.a247e7f0ee4a9adf9552.png",
+    "static/media/imagem-churrasco-dois.png": "/static/media/imagem-churrasco-dois.e38dd55d4dcb98115200.png",
+    "static/media/carrossel_hamburguer.jpg": "/static/media/carrossel_hamburguer.e05f3605bd8ecb01d769.jpg",
+    "static/media/card-salgados.jpg": "/static/media/card-salgados.acaba7903146a3d3a356.jpg",
+    "static/media/card-salgados-quadrado.jpg": "/static/media/card-salgados-quadrado.78d56902b79bcd124644.jpg",
+    "static/media/card-hamburguer.png": "/static/media/card-hamburguer.1c11d7cfcb696fb2326d.png",
+    "static/media/card-churrasco-quadrado.jpg": "/static/media/card-churrasco-quadrado.b9533e1b94f17a5df2bf.jpg",
+    "static/media/card-churrasco.jpg": "/static/media/card-churrasco.934861f27804f9d3178d.jpg",
+    "static/media/card-pizza.jpg": "/static/media/card-pizza.c48cca232997c0fc6421.jpg",
+    "static/media/carvao.png": "/static/media/carvao.e70a6a6b82ebfcc20325.png",
+    "static/media/camaElast.png": "/static/media/camaElast.0ffb9fe20bef91eabe51.png",
+    "static/media/temperos.png": "/static/media/temperos.13d1b19e38a6143b801a.png",
+    "static/media/OpenDyslexic-Regular.otf": "/static/media/OpenDyslexic-Regular.41a1d465797f51702171.otf",
+    "static/media/mesasBolo.png": "/static/media/mesasBolo.fde4628885d8a3fa6763.png",
+    "static/media/pratCol.png": "/static/media/pratCol.4fa6233726c514eb38df.png",
+    "static/media/baloes.png": "/static/media/baloes.0828088bea1493c1c3ad.png",
+    "static/media/gelo.png": "/static/media/gelo.518107ad6574cffe0f5d.png",
+    "static/media/elo_logo.png": "/static/media/elo_logo.88bb7dfb4c0ccdb4bd4b.png",
+    "static/media/pix_logo.png": "/static/media/pix_logo.4bf74142f865556a9d77.png",
+    "static/media/logo3.0FunFiestaCinza.png": "/static/media/logo3.0FunFiestaCinza.c15fdec5619024aefcb4.png",
+    "static/media/logo7FunFiesta.png": "/static/media/logo7FunFiesta.b9a2fa29a738c387f1c8.png",
+    "static/media/caixaTerm.png": "/static/media/caixaTerm.f7cd7f29c33cc52912c8.png",
+    "static/media/mesaCadeira.png": "/static/media/mesaCadeira.ef92fa950e9df1b3b7d1.png",
+    "static/media/velas.png": "/static/media/velas.d1f90381f1b2445b3290.png",
+    "static/media/logo3.0FunFiesta.png": "/static/media/logo3.0FunFiesta.d37cbab3434fca9739a3.png",
+    "static/media/logo6.0FunFiesta.png": "/static/media/logo6.0FunFiesta.c3c398c14cd4d7080f97.png",
+    "index.html": "/index.html",
+    "main.8268d34b.css.map": "/static/css/main.8268d34b.css.map",
+    "main.59dda759.js.map": "/static/js/main.59dda759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8268d34b.css",
+    "static/js/main.59dda759.js"
+  ]
+}
